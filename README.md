@@ -1,2 +1,16 @@
-# hydra-BAPI
-MPDV的hydra系统，把系统批处理改造一下，做成web api，提供其他系统调用。
+# ASP.NET Core & EntityFramework Core Based Startup Template
+
+This template is a simple startup project to start with ABP
+using ASP.NET Core and EntityFramework Core.
+
+## Prerequirements
+
+* Visual Studio 2017
+* .NET Core SDK
+* SQL Server
+
+## How To Run
+
+* Open solution in Visual Studio 2017
+* Set .Web project as Startup Project and build the project.
+* Run the application.
